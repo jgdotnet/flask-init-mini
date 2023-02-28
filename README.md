@@ -9,6 +9,7 @@ Below steps can be executed on any unix like system. I will use ubuntu deployed 
 SOURCE:
 GitHub Fundamentals—with Interactivity
 https://learning.oreilly.com/live-events/github-fundamentalswith-interactivity/0636920056978/
+https://github.com/ldynia/workshop-github-fundamentals
 
 
 ## Setup SSH key
